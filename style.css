@@ -5,3 +5,10 @@ h1 {
 .class {
     margin-bottom: 10px;
 }
+
+.hw {
+    font-size: 24px;
+    text-align: center;
+    font-style: italic;
+    text-shadow:green 1px 1px;
+}
